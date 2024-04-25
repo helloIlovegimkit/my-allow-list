@@ -1,2 +1,9 @@
 || roblox.com
 || lifetime.com
+|| rbxcdn.com
+|| ecsv2.roblox.com
+|| github.com
+|| bing.com
+|| bingapis.com
+|| cloudflare.com
+|| microsoft.com
