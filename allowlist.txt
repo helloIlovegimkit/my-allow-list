@@ -10,3 +10,8 @@
 || canva.com
 || youtube.com
 || youtu.be
+|| sydney.bing.com
+|| www.bingapis.com
+|| collector.github.com
+|| tlu.dl.delivery.mp.microsoft.com
+|| alive.github.com
