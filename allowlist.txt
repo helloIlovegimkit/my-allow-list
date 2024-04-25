@@ -8,3 +8,4 @@
 || cloudflare.com
 || microsoft.com
 || canva.com
+|| youtube.com
