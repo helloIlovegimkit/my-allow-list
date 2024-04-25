@@ -7,3 +7,4 @@
 || bingapis.com
 || cloudflare.com
 || microsoft.com
+|| canva.com
